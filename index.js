@@ -6,6 +6,7 @@ const close = document.querySelector(".fa-xmark");
 const hamburgerMenu = document.querySelector(".hamburger-menu");
 // Hide and show menu
 MenuControlSpan.addEventListener("click", () => {
+    hamburgerMenu.style.display = "none";
 
 
     if (close.style.display === "none") {
