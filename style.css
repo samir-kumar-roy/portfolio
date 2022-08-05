@@ -157,7 +157,7 @@ header nav,
     top: 0;
     bottom: 0;
     width: calc(100% - 160px);
-    background-color: red;
+    background-color: rgb(107, 6, 118);
     z-index: 1000;
 }
 
